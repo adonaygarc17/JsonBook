@@ -1,185 +1,307 @@
 {
   "books":[
+ [
   {
     "id": "1",
-    "name": "Dune",
-    "Author": "Frank Herbert",
-    "year": "1965"
+    "title": "Dune",
+    "author": "Frank Herbert",
+    "editorial ": "Ace Books",
+    "year": "1965",
+    "pages": "412",
+    "languate": "English",
+    "country": "United States"
   },
   {
     "id": "2",
-    "name": "Foundation",
-    "Author": "Isaac Asimov",
-    "year": "1951"
+    "title": "Foundation",
+    "author": "Isaac Asimov",
+    "editorial ": "Gnome Press",
+    "year": "1951",
+    "pages": "255",
+    "languate": "English",
+    "country": "United States"
   },
   {
     "id": "3",
-    "name": "Ender's Game",
-    "Author": "Orson Scott Card",
-    "year": "1985"
+    "title": "1984",
+    "author": "George Orwell",
+    "editorial ": "Secker & Warburg",
+    "year": "1949",
+    "pages": "328",
+    "languate": "English",
+    "country": "United Kingdom"
   },
   {
     "id": "4",
-    "name": "1984",
-    "Author": "George Orwell",
-    "year": "1949"
+    "title": "Brave New World",
+    "author": "Aldous Huxley",
+    "editorial ": "Chatto & Windus",
+    "year": "1932",
+    "pages": "311",
+    "languate": "English",
+    "country": "United Kingdom"
   },
   {
     "id": "5",
-    "name": "The Hitchhiker's Guide to the Galaxy",
-    "Author": "Douglas Adams",
-    "year": "1979"
+    "title": "The Hitchhiker's Guide to the Galaxy",
+    "author": "Douglas Adams",
+    "editorial ": "Pan Books",
+    "year": "1979",
+    "pages": "180",
+    "languate": "English",
+    "country": "United Kingdom"
   },
   {
     "id": "6",
-    "name": "Brave New World",
-    "Author": "Aldous Huxley",
-    "year": "1932"
+    "title": "Neuromancer",
+    "author": "William Gibson",
+    "editorial ": "Ace Books",
+    "year": "1984",
+    "pages": "271",
+    "languate": "English",
+    "country": "Canada"
   },
   {
     "id": "7",
-    "name": "Neuromancer",
-    "Author": "William Gibson",
-    "year": "1984"
+    "title": "Ender's Game",
+    "author": "Orson Scott Card",
+    "editorial ": "Tor Books",
+    "year": "1985",
+    "pages": "324",
+    "languate": "English",
+    "country": "United States"
   },
   {
     "id": "8",
-    "name": "Fahrenheit 451",
-    "Author": "Ray Bradbury",
-    "year": "1953"
+    "title": "The War of the Worlds",
+    "author": "H.G. Wells",
+    "editorial ": "William Heinemann",
+    "year": "1898",
+    "pages": "288",
+    "languate": "English",
+    "country": "United Kingdom"
   },
   {
     "id": "9",
-    "name": "Snow Crash",
-    "Author": "Neal Stephenson",
-    "year": "1992"
+    "title": "Fahrenheit 451",
+    "author": "Ray Bradbury",
+    "editorial ": "Ballantine Books",
+    "year": "1953",
+    "pages": "158",
+    "languate": "English",
+    "country": "United States"
   },
   {
     "id": "10",
-    "name": "The War of the Worlds",
-    "Author": "H.G. Wells",
-    "year": "1898"
+    "title": "The Time Machine",
+    "author": "H.G. Wells",
+    "editorial ": "William Heinemann",
+    "year": "1895",
+    "pages": "84",
+    "languate": "English",
+    "country": "United Kingdom"
   },
   {
     "id": "11",
-    "name": "I, Robot",
-    "Author": "Isaac Asimov",
-    "year": "1950"
+    "title": "The Martian",
+    "author": "Andy Weir",
+    "editorial ": "Crown Publishing Group",
+    "year": "2011",
+    "pages": "369",
+    "languate": "English",
+    "country": "United States"
   },
   {
     "id": "12",
-    "name": "The Martian",
-    "Author": "Andy Weir",
-    "year": "2011"
+    "title": "Snow Crash",
+    "author": "Neal Stephenson",
+    "editorial ": "Bantam Books",
+    "year": "1992",
+    "pages": "470",
+    "languate": "English",
+    "country": "United States"
   },
   {
     "id": "13",
-    "name": "The Time Machine",
-    "Author": "H.G. Wells",
-    "year": "1895"
+    "title": "I, Robot",
+    "author": "Isaac Asimov",
+    "editorial ": "Gnome Press",
+    "year": "1950",
+    "pages": "253",
+    "languate": "English",
+    "country": "United States"
   },
   {
     "id": "14",
-    "name": "Do Androids Dream of Electric Sheep?",
-    "Author": "Philip K. Dick",
-    "year": "1968"
+    "title": "The Hunger Games",
+    "author": "Suzanne Collins",
+    "editorial ": "Scholastic Corporation",
+    "year": "2008",
+    "pages": "374",
+    "languate": "English",
+    "country": "United States"
   },
   {
     "id": "15",
-    "name": "The Hunger Games",
-    "Author": "Suzanne Collins",
-    "year": "2008"
+    "title": "The Handmaid's Tale",
+    "author": "Margaret Atwood",
+    "editorial ": "McClelland and Stewart",
+    "year": "1985",
+    "pages": "311",
+    "languate": "English",
+    "country": "Canada"
   },
   {
     "id": "16",
-    "name": "The Lord of the Rings",
-    "Author": "J.R.R. Tolkien",
-    "year": "1954"
+    "title": "The Lord of the Rings",
+    "author": "J.R.R. Tolkien",
+    "editorial ": "George Allen & Unwin",
+    "year": "1954",
+    "pages": "1,216",
+    "languate": "English",
+    "country": "United Kingdom"
   },
   {
     "id": "17",
-    "name": "The Handmaid's Tale",
-    "Author": "Margaret Atwood",
-    "year": "1985"
+    "title": "The Matrix",
+    "author": "Lilly Wachowski",
+    "editorial ": "Warner Bros. Pictures",
+    "year": "1999",
+    "pages": "137",
+    "languate": "English",
+    "country": "United States"
   },
   {
     "id": "18",
-    "name": "Starship Troopers",
-    "Author": "Robert A. Heinlein",
-    "year": "1959"
+    "title": "The Chronicles of Narnia",
+    "author": "C.S. Lewis",
+    "editorial ": "Geoffrey Bles",
+    "year": "1950",
+    "pages": "2,208",
+    "languate": "English",
+    "country": "United Kingdom"
   },
   {
     "id": "19",
-    "name": "A Wrinkle in Time",
-    "Author": "Madeleine L'Engle",
-    "year": "1962"
+    "title": "A Wrinkle in Time",
+    "author": "Madeleine L'Engle",
+    "editorial ": "Farrar, Straus & Giroux",
+    "year": "1962",
+    "pages": "211",
+    "languate": "English",
+    "country": "United States"
   },
   {
     "id": "20",
-    "name": "The Matrix",
-    "Author": "Lilly Wachowski",
-    "year": "1999"
+    "title": "The Forever War",
+    "author": "Joe Haldeman",
+    "editorial ": "St. Martin's Press",
+    "year": "1974",
+    "pages": "278",
+    "languate": "English",
+    "country": "United States"
   },
   {
     "id": "21",
-    "name": "Jurassic Park",
-    "Author": "Michael Crichton",
-    "year": "1990"
+    "title": "The Dispossessed",
+    "author": "Ursula K. Le Guin",
+    "editorial ": "Harper & Row",
+    "year": "1974",
+    "pages": "387",
+    "languate": "English",
+    "country": "United States"
   },
   {
     "id": "22",
-    "name": "Frankenstein",
-    "Author": "Mary Shelley",
-    "year": "1818"
+    "title": "Do Androids Dream of Electric Sheep?",
+    "author": "Philip K. Dick",
+    "editorial ": "Doubleday",
+    "year": "1968",
+    "pages": "210",
+    "languate": "English",
+    "country": "United States"
   },
   {
     "id": "23",
-    "name": "The Chronicles of Narnia",
-    "Author": "C.S. Lewis",
-    "year": "1950"
+    "title": "Starship Troopers",
+    "author": "Robert A. Heinlein",
+    "editorial ": "G.P. Putnam's Sons",
+    "year": "1959",
+    "pages": "263",
+    "languate": "English",
+    "country": "United States"
   },
   {
     "id": "24",
-    "name": "The Giver",
-    "Author": "Lois Lowry",
-    "year": "1993"
+    "title": "The Giver",
+    "author": "Lois Lowry",
+    "editorial ": "Houghton Mifflin",
+    "year": "1993",
+    "pages": "208",
+    "languate": "English",
+    "country": "United States"
   },
   {
     "id": "25",
-    "name": "I Am Legend",
-    "Author": "Richard Matheson",
-    "year": "1954"
+    "title": "Frankenstein",
+    "author": "Mary Shelley",
+    "editorial ": "Lackington, Hughes, Harding, Mavor & Jones",
+    "year": "1818",
+    "pages": "280",
+    "languate": "English",
+    "country": "United Kingdom"
   },
   {
     "id": "26",
-    "name": "The Forever War",
-    "Author": "Joe Haldeman",
-    "year": "1974"
+    "title": "The Warlock of Firetop Mountain",
+    "author": "Steve Jackson",
+    "editorial ": "Puffin Books",
+    "year": "1982",
+    "pages": "489",
+    "languate": "English",
+    "country": "United Kingdom"
   },
   {
     "id": "27",
-    "name": "A Clockwork Orange",
-    "Author": "Anthony Burgess",
-    "year": "1962"
+    "title": "The Left Hand of Darkness",
+    "author": "Ursula K. Le Guin",
+    "editorial ": "Ace Books",
+    "year": "1969",
+    "pages": "304",
+    "languate": "English",
+    "country": "United States"
   },
   {
     "id": "28",
-    "name": "The Stand",
-    "Author": "Stephen King",
-    "year": "1978"
+    "title": "The Caves of Steel",
+    "author": "Isaac Asimov",
+    "editorial ": "Doubleday",
+    "year": "1954",
+    "pages": "206",
+    "languate": "English",
+    "country": "United States"
   },
   {
     "id": "29",
-    "name": "The Maze Runner",
-    "Author": "James Dashner",
-    "year": "2009"
+    "title": "The City and the Stars",
+    "author": "Arthur C. Clarke",
+    "editorial ": "Harper & Brothers",
+    "year": "1956",
+    "pages": "246",
+    "languate": "English",
+    "country": "United Kingdom"
   },
   {
     "id": "30",
-    "name": "The War of the Worlds",
-    "Author": "H.G. Wells",
-    "year": "1898"
+    "title": "Childhood's End",
+    "author": "Arthur C. Clarke",
+    "editorial ": "Ballantine Books",
+    "year": "1953",
+    "pages": "224",
+    "languate": "English",
+    "country": "United States"
   }
+]
 ],
   "profile": {
     "name": "pruebas"

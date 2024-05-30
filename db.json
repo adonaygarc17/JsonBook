@@ -68,7 +68,7 @@
   },
   {
     "id": "7",
-    "title": "The Hitchhiker's Guide to the Galaxy",
+    "title": "The Hitchhikers Guide to the Galaxy",
     "author": "Douglas Adams",
     "editorial": "Pan Books",
     "year": "1979",
@@ -90,7 +90,7 @@
   },
   {
     "id": "9",
-    "title": "Ender's Game",
+    "title": "Enders Game",
     "author": "Orson Scott Card",
     "editorial": "Tor Books",
     "year": "1985",
@@ -190,7 +190,7 @@
   {
     "id": "18",
     "title": "A Wrinkle in Time",
-    "author": "Madeleine L'Engle",
+    "author": "Madeleine LEngle",
     "editorial": "Farrar, Straus & Giroux",
     "year": "1962",
     "language": "English",
@@ -212,7 +212,7 @@
     "id": "20",
     "title": "The Forever War",
     "author": "Joe Haldeman",
-    "editorial": "St. Martin's Press",
+    "editorial": "St. Martins Press",
     "year": "1974",
     "language": "English",
     "date": "2021-08-14",
@@ -254,7 +254,7 @@
   },
   {
     "id": "24",
-    "title": "Childhood's End",
+    "title": "Childhoods End",
     "author": "Arthur C. Clarke",
     "editorial": "Ballantine Books",
     "year": "1953",
@@ -265,7 +265,7 @@
   },
   {
     "id": "25",
-    "title": "The Handmaid's Tale",
+    "title": "The Handmaids Tale",
     "author": "Margaret Atwood",
     "editorial": "McClelland and Stewart",
     "year": "1985",
@@ -300,7 +300,7 @@
     "id": "28",
     "title": "The Moon is a Harsh Mistress",
     "author": "Robert A. Heinlein",
-    "editorial": "G. P. Putnam's Sons",
+    "editorial": "G. P. Putnams Sons",
     "year": "1966",
     "language": "English",
     "date": "2021-08-14",
